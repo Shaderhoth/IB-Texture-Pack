@@ -1,0 +1,10 @@
+﻿[C]§f============
+[C]§eMinecraft Team
+[C]§f============
+ 
+§7Original Creator
+§f          Markus Persson
+ 
+§7Resource Pack Designers
+§f          Shaderhoth
+§f          Snowdog
